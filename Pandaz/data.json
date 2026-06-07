@@ -1,0 +1,402 @@
+[
+    {
+        "StudentID": 1,
+        "Name": "Chad Thompson",
+        "Age": 22,
+        "Department": "CSE",
+        "CGPA": 3.49,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 2,
+        "Name": "Megan Riley",
+        "Age": 21,
+        "Department": "English",
+        "CGPA": 3.44,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 3,
+        "Name": "Donna Bond",
+        "Age": 21,
+        "Department": "English",
+        "CGPA": 2.74,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 4,
+        "Name": "Jacob Hayden",
+        "Age": 25,
+        "Department": "EEE",
+        "CGPA": 2.91,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 5,
+        "Name": "Stephen Small",
+        "Age": 25,
+        "Department": "CSE",
+        "CGPA": 3.95,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 6,
+        "Name": "Sarah Underwood",
+        "Age": 24,
+        "Department": "Mathematics",
+        "CGPA": 3.85,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 7,
+        "Name": "Kenneth Collins",
+        "Age": 24,
+        "Department": "Mathematics",
+        "CGPA": 3.42,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 8,
+        "Name": "Alexander Jones",
+        "Age": 24,
+        "Department": "Mathematics",
+        "CGPA": 3.58,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 9,
+        "Name": "George Hardy",
+        "Age": 19,
+        "Department": "English",
+        "CGPA": 3.38,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 10,
+        "Name": "Gabriel Cruz",
+        "Age": 20,
+        "Department": "Mathematics",
+        "CGPA": 3.49,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 11,
+        "Name": "Lynn Hodges",
+        "Age": 18,
+        "Department": "CSE",
+        "CGPA": 3.36,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 12,
+        "Name": "William Barron",
+        "Age": 21,
+        "Department": "EEE",
+        "CGPA": 2.79,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 13,
+        "Name": "Justin Huffman",
+        "Age": 21,
+        "Department": "Mathematics",
+        "CGPA": 2.59,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 14,
+        "Name": "Teresa Baldwin",
+        "Age": 20,
+        "Department": "EEE",
+        "CGPA": 3.44,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 15,
+        "Name": "Frederick Weaver",
+        "Age": 24,
+        "Department": "CSE",
+        "CGPA": 3.49,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 16,
+        "Name": "Patricia Campbell",
+        "Age": 19,
+        "Department": "EEE",
+        "CGPA": 3.14,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 17,
+        "Name": "Christopher Villa",
+        "Age": 21,
+        "Department": "BBA",
+        "CGPA": 2.55,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 18,
+        "Name": "Tina Davis",
+        "Age": 20,
+        "Department": "CSE",
+        "CGPA": 3.82,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 19,
+        "Name": "Kimberly Callahan",
+        "Age": 25,
+        "Department": "CSE",
+        "CGPA": 3.95,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 20,
+        "Name": "Adam Brown",
+        "Age": 19,
+        "Department": "BBA",
+        "CGPA": 3.3,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 21,
+        "Name": "Tyler Yates",
+        "Age": 25,
+        "Department": "CSE",
+        "CGPA": 3.39,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 22,
+        "Name": "Michelle Rodriguez",
+        "Age": 20,
+        "Department": "Mathematics",
+        "CGPA": 2.94,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 23,
+        "Name": "Steven Baldwin",
+        "Age": 21,
+        "Department": "CSE",
+        "CGPA": 3.27,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 24,
+        "Name": "Sara Lee",
+        "Age": 22,
+        "Department": "English",
+        "CGPA": 2.64,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 25,
+        "Name": "Christopher Cooper",
+        "Age": 22,
+        "Department": "Mathematics",
+        "CGPA": 3.49,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 26,
+        "Name": "Deanna Mueller",
+        "Age": 21,
+        "Department": "BBA",
+        "CGPA": 3.14,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 27,
+        "Name": "Julie Harper",
+        "Age": 19,
+        "Department": "CSE",
+        "CGPA": 3.97,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 28,
+        "Name": "Jeremy Johnson",
+        "Age": 18,
+        "Department": "CSE",
+        "CGPA": 3.07,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 29,
+        "Name": "Melissa Gray",
+        "Age": 20,
+        "Department": "English",
+        "CGPA": 3.06,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 30,
+        "Name": "Christine Jackson",
+        "Age": 25,
+        "Department": "Mathematics",
+        "CGPA": 3.03,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 31,
+        "Name": "Daniel Mckinney",
+        "Age": 23,
+        "Department": "CSE",
+        "CGPA": 3.66,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 32,
+        "Name": "Mr. Joel Savage MD",
+        "Age": 20,
+        "Department": "CSE",
+        "CGPA": 3.2,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 33,
+        "Name": "Shelia Hays",
+        "Age": 21,
+        "Department": "Mathematics",
+        "CGPA": 2.57,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 34,
+        "Name": "Suzanne Liu",
+        "Age": 25,
+        "Department": "BBA",
+        "CGPA": 3.08,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 35,
+        "Name": "Samantha Myers",
+        "Age": 23,
+        "Department": "EEE",
+        "CGPA": 3.63,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 36,
+        "Name": "Angie Berry",
+        "Age": 24,
+        "Department": "English",
+        "CGPA": 3.84,
+        "City": "Dhaka"
+    },
+    {
+        "StudentID": 37,
+        "Name": "Michael Wright",
+        "Age": 20,
+        "Department": "CSE",
+        "CGPA": 2.56,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 38,
+        "Name": "Elizabeth Nguyen",
+        "Age": 21,
+        "Department": "Mathematics",
+        "CGPA": 3.35,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 39,
+        "Name": "Michael Rogers",
+        "Age": 18,
+        "Department": "Mathematics",
+        "CGPA": 2.86,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 40,
+        "Name": "Courtney Valentine",
+        "Age": 19,
+        "Department": "BBA",
+        "CGPA": 2.75,
+        "City": "Rajshahi"
+    },
+    {
+        "StudentID": 41,
+        "Name": "Yesenia Flores",
+        "Age": 22,
+        "Department": "CSE",
+        "CGPA": 3.55,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 42,
+        "Name": "Christina Adams",
+        "Age": 21,
+        "Department": "Mathematics",
+        "CGPA": 3.64,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 43,
+        "Name": "Yvonne Morales",
+        "Age": 24,
+        "Department": "BBA",
+        "CGPA": 3.44,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 44,
+        "Name": "Kelsey Johnson",
+        "Age": 19,
+        "Department": "Mathematics",
+        "CGPA": 3.78,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 45,
+        "Name": "David Hammond",
+        "Age": 22,
+        "Department": "CSE",
+        "CGPA": 3.17,
+        "City": "Khulna"
+    },
+    {
+        "StudentID": 46,
+        "Name": "Joanne Navarro",
+        "Age": 23,
+        "Department": "EEE",
+        "CGPA": 2.74,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 47,
+        "Name": "Valerie Johnson",
+        "Age": 18,
+        "Department": "Mathematics",
+        "CGPA": 2.84,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 48,
+        "Name": "Jordan Lee",
+        "Age": 21,
+        "Department": "BBA",
+        "CGPA": 3.92,
+        "City": "Sylhet"
+    },
+    {
+        "StudentID": 49,
+        "Name": "Laura Molina",
+        "Age": 25,
+        "Department": "BBA",
+        "CGPA": 3.26,
+        "City": "Chattogram"
+    },
+    {
+        "StudentID": 50,
+        "Name": "Jason Sanchez",
+        "Age": 20,
+        "Department": "English",
+        "CGPA": 2.66,
+        "City": "Rajshahi"
+    }
+]
