@@ -10,3 +10,5 @@ i = 1
 while i < n:
     print(i , mp[i])
     i += 2
+
+❯ /home/siyam/MyCodes/MachineLearning/venv/bin/python /home/siyam/MyCodes/MachineLearning/course/freq.py
